@@ -15,7 +15,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using this data which was a sample of data from an interview task about online booking platform in a travel agency to find the below gather some insights and answer some question I am interested in like the below :
+For this project, I was interestested in using this data which was a sample of data from an interview task about online booking platform in a travel agency to gather some insights and answer some question that I am interested in, like the below :
 
 1. What are the top nationalities in the dataset that gets confirmed requests or makes requests in general?
 2. Does people like to travel in groups or alone?
