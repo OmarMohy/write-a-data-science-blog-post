@@ -29,7 +29,7 @@ The notebook available here showcases work related to the above questions. It is
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@joshua.chyeung/go-to-the-western-world-if-you-are-a-programmer-1ccfac7e413a).
+The main findings of the code can be found at the post available [here](https://medium.com/@omarmohyeldin/can-a-travel-agency-know-why-it-doesnt-get-confirmed-requests-f846ee78b699).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
